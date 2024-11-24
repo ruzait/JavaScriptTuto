@@ -33,7 +33,7 @@ Node.js is required to run JavaScript outside the browser.
 
 
 ## 5. Run the JavaScript File
-- Open the terminal in VS Code by pressing `Ctrl + Shift + ` (backtick) or navigating to `View` > `Terminal`.
+- Open the terminal in VS Code by pressing `Ctrl + Shift + /` (backtick) or navigating to `View` > `Terminal`.
 - Type `node script.js` and press Enter to run the JavaScript file.
 ```bash
    node script.js
