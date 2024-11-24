@@ -26,7 +26,7 @@ Node.js is required to run JavaScript outside the browser.
 - Create a new file with a `.js` extension (e.g., `script.js`)
 
 ## 4. Write Your JavaScript Code
-- Write your JavaScript code in the .js file. Example:
+- Write your JavaScript code in the `.js` file. Example:
 ```javascript
     console.log("Hello, World!");
 ```
